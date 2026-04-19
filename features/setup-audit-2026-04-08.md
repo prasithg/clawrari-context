@@ -88,7 +88,7 @@ This is the "your AI gets better every day" promise.
 | `content-autopilot` | ✅ | Automated content generation pipeline. |
 | `meeting-debrief` | ✅ | Post-meeting synthesis. Universal. |
 | `night-work` | ✅ | Overnight task execution framework. Unique to Clawrari. |
-| `auto-board-sync` | 🔄 | Kanban sync. Specific to our PinchChat setup. |
+| `auto-board-sync` | 🔄 | Kanban sync. Specific to a private integration — omit if you don't use the same tooling. |
 | `research` | ✅ | Deep research workflow. Universal. |
 | `summarize` | ✅ | Content summarization. Universal. |
 | `mac-screenshots` | ✅ | Just built today. Clean, well-documented. |

@@ -68,7 +68,7 @@ This is the "your AI gets better every day" promise.
 | `systems/model-eval/` | ✅ | Subagent comparison framework. |
 | `systems/agent-registry/running.json` | ✅ | Active agent tracking. Simple and effective. |
 | Regressions pipeline (in memory/) | ✅ | Named regressions loaded every session. The crown jewel. |
-| RLHF loop (in HEARTBEAT.md) | ✅ | Check #prasclaw-briefings → apply corrections. Generalizable to any feedback channel. |
+| RLHF loop (in HEARTBEAT.md) | ✅ | Check the configured assistant-feedback channel → apply corrections. Generalizable to any feedback channel. |
 | Recursive Self-Improvement Cycle (in SOUL.md) | ✅ | Generate → Evaluate → Diagnose → Improve → Repeat. Framework, not code. |
 
 **Clawrari action:** Package as "Self-Improvement Framework" — the core differentiator.

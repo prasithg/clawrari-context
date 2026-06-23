@@ -88,7 +88,7 @@ Adapted from the [8090 Product Development Process](docs/process/product-develop
 | Memory Architecture | FRD + Blueprint | `features/frd-c2-memory-architecture.md` |
 | Self-Improvement Framework | FRD | `features/frd-c3-self-improvement.md` |
 | Personal Persona | Research | `features/personal-persona-patterns.md` |
-| PrasClaw Slack Identity | Brief | `features/frd-c8-prasclaw-slack-identity.md` |
+| Assistant Slack Identity | Brief | `features/frd-c8-assistant-slack-identity.md` |
 
 ---
 

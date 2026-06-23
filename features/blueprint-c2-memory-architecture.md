@@ -446,7 +446,7 @@ Current daily log pattern:
 
 Current maintenance (from HEARTBEAT.md):
 - QMD freshness guard: reindex if stale >24h
-- RLHF check: scan #prasclaw-briefings for corrections
+- RLHF check: scan the configured assistant-feedback channel for corrections
 - Agent registry: check for stale running agents
 - No formal promotion workflow from daily → durable
 - No formal context-hold expiry check
